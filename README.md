@@ -1,6 +1,6 @@
 # MVP Fase 1 — Pré-agendamento Nutricionista (Pix)
 
-Sistema de pré-agendamento em **Next.js 15** com formulário em português do Brasil, integração Pix (AbacatePay v2), persistência em Supabase e webhook idempotente para confirmação de pagamento.
+Sistema de pré-agendamento em **Next.js 16** com formulário em português do Brasil, integração Pix (AbacatePay v2), persistência em Supabase e webhook idempotente para confirmação de pagamento.
 
 ## 1) Arquitetura resumida
 
